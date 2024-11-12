@@ -1,0 +1,75 @@
+{
+  "citas": [
+    
+    {
+      "id": "29fe",
+      "nombre": "Juan Carlos Escobar",
+      "email": "juan@correo.com",
+      "fecha": "12-12-2024",
+      "hora": "09:00",
+      "especialidad": "Pediatra",
+      "isconfirmed": true
+    },
+    {
+      "id": "7f1a",
+      "nombre": "Isabel",
+      "email": "isabel@correo.com",
+      "fecha": "12-12-2024",
+      "hora": "15:00",
+      "especialidad": "Traumatologo",
+      "isconfirmed": false
+    },
+    {
+      "id": "a03d",
+      "nombre": "marcelo",
+      "email": "marcelo@hotmail.com",
+      "fecha": "12-12-2024",
+      "hora": "15:00",
+      "especialidad": "Traumatologo",
+      "isconfirmed": false
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "paciente1",
+      "password": "csp12345",
+      "email": "paciente1@gmail.com",
+      "isactive": true
+    },
+    {
+      "id": "2",
+      "username": "paciente2",
+      "password": "csp123456",
+      "email": "paciente2@gmail.com",
+      "isactive": true
+    },
+    {
+      "id": "4a05",
+      "username": "raulescobar",
+      "email": "ra.escobar@duocuc.cl",
+      "password": "raulescobar88",
+      "isactive": true
+    },
+    {
+      "id": "9c37",
+      "username": "Eileen",
+      "email": "eileen@gmail.com",
+      "password": "eileen12345",
+      "isactive": true
+    },
+    {
+      "id": "5355",
+      "username": "patopato",
+      "email": "pato@gmail.com",
+      "password": "pato12345",
+      "isactive": true
+    }
+  ],
+  "comentarios": [
+    {
+      "id": "cf45",
+      "comentario": "Hola, muy buena app!"
+    }
+  ]
+}
